@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/feMentorPomodoro/static/css/main.8bdbd7c0.chunk.css",
+    "main.js": "/feMentorPomodoro/static/js/main.68957a14.chunk.js",
+    "main.js.map": "/feMentorPomodoro/static/js/main.68957a14.chunk.js.map",
+    "runtime-main.js": "/feMentorPomodoro/static/js/runtime-main.71e0fcdd.js",
+    "runtime-main.js.map": "/feMentorPomodoro/static/js/runtime-main.71e0fcdd.js.map",
+    "static/js/2.4e0f04af.chunk.js": "/feMentorPomodoro/static/js/2.4e0f04af.chunk.js",
+    "static/js/2.4e0f04af.chunk.js.map": "/feMentorPomodoro/static/js/2.4e0f04af.chunk.js.map",
+    "static/js/3.1810de83.chunk.js": "/feMentorPomodoro/static/js/3.1810de83.chunk.js",
+    "static/js/3.1810de83.chunk.js.map": "/feMentorPomodoro/static/js/3.1810de83.chunk.js.map",
+    "index.html": "/feMentorPomodoro/index.html",
+    "static/css/main.8bdbd7c0.chunk.css.map": "/feMentorPomodoro/static/css/main.8bdbd7c0.chunk.css.map",
+    "static/js/2.4e0f04af.chunk.js.LICENSE.txt": "/feMentorPomodoro/static/js/2.4e0f04af.chunk.js.LICENSE.txt",
+    "static/media/Bell-ring-sound-effect.998d0363.mp3": "/feMentorPomodoro/static/media/Bell-ring-sound-effect.998d0363.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71e0fcdd.js",
+    "static/js/2.4e0f04af.chunk.js",
+    "static/css/main.8bdbd7c0.chunk.css",
+    "static/js/main.68957a14.chunk.js"
+  ]
+}
